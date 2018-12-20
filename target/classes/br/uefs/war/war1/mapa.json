@@ -1,0 +1,432 @@
+[
+	{
+		"nome": "Norte",
+		"territorios": [
+			{
+				"nome": "Acre",
+				"sigla": "AC",
+				"vizinhos": [
+					{
+						"sigla": "AM"
+					},
+					{
+						"sigla": "RO"
+					}
+				]
+			},
+			{
+				"nome": "Amazonas",
+				"sigla": "AM",
+				"vizinhos": [
+					{
+						"sigla": "AC"
+					},
+					{
+						"sigla": "RO"
+					},
+					{
+						"sigla": "PA"
+					},
+					{
+						"sigla": "RR"
+					},
+					{
+						"sigla": "MT"
+					}
+				]
+			},
+			{
+				"nome": "Pará",
+				"sigla": "PA",
+				"vizinhos": [
+					{
+						"sigla": "AM"
+					},
+					{
+						"sigla": "AP"
+					},
+					{
+						"sigla": "RR"
+					},
+					{
+						"sigla": "MT"
+					},
+					{
+						"sigla": "GO"
+					},
+					{
+						"sigla": "MA"
+					}
+				]
+			},
+			{
+				"nome": "Terr. de Rondônia",
+				"sigla": "RO",
+				"vizinhos": [
+					{
+						"sigla": "AC"
+					},
+					{
+						"sigla": "AM"
+					},
+					{
+						"sigla": "PA"
+					},
+					{
+						"sigla": "MT"
+					}
+				]
+			},
+			{
+				"nome": "Terr. de Roraima",
+				"sigla": "RR",
+				"vizinhos": [
+					{
+						"sigla": "AM"
+					},
+					{
+						"sigla": "PA"
+					}
+				]
+			},
+			{
+				"nome": "Terr. do Amapá",
+				"sigla": "AP",
+				"vizinhos": [
+					{
+						"sigla": "PA"
+					}
+				]
+			}
+		]
+	},
+	{
+		"nome": "Nordeste",
+		"territorios": [
+			{
+				"nome": "Alagoas",
+				"sigla": "AL",
+				"vizinhos": [
+					{
+						"sigla": "PE"
+					},
+					{
+						"sigla": "SE"
+					},
+					{
+						"sigla": "BA"
+					}
+				]
+			},
+			{
+				"nome": "Bahia",
+				"sigla": "BA",
+				"vizinhos": [
+					{
+						"sigla": "SE"
+					},
+					{
+						"sigla": "AL"
+					},
+					{
+						"sigla": "PE"
+					},
+					{
+						"sigla": "PI"
+					},
+					{
+						"sigla": "MA"
+					},
+					{
+						"sigla": "GO"
+					},
+					{
+						"sigla": "MG"
+					},
+					{
+						"sigla": "ES"
+					}
+				]
+			},
+			{
+				"nome": "Ceará",
+				"sigla": "CE",
+				"vizinhos": [
+					{
+						"sigla": "PI"
+					},
+					{
+						"sigla": "PE"
+					},
+					{
+						"sigla": "RN"
+					},
+					{
+						"sigla": "PB"
+					}
+				]
+			},
+			{
+				"nome": "Maranhão",
+				"sigla": "MA",
+				"vizinhos": [
+					{
+						"sigla": "PA"
+					},
+					{
+						"sigla": "GO"
+					},
+					{
+						"sigla": "BA"
+					},
+					{
+						"sigla": "PI"
+					}
+				]
+			},
+			{
+				"nome": "Paraíba",
+				"sigla": "PB",
+				"vizinhos": [
+					{
+						"sigla": "RN"
+					},
+					{
+						"sigla": "CE"
+					},
+					{
+						"sigla": "PE"
+					}
+				]
+			},
+			{
+				"nome": "Pernambuco",
+				"sigla": "PE",
+				"vizinhos": [
+					{
+						"sigla": "PB"
+					},
+					{
+						"sigla": "CE"
+					},
+					{
+						"sigla": "PI"
+					},
+					{
+						"sigla": "AL"
+					},
+					{
+						"sigla": "BA"
+					}
+				]
+			},
+			{
+				"nome": "Piauí",
+				"sigla": "PI",
+				"vizinhos": [
+					{
+						"sigla": "MA"
+					},
+					{
+						"sigla": "CE"
+					},
+					{
+						"sigla": "PE"
+					},
+					{
+						"sigla": "BA"
+					},
+					{
+						"sigla": "GO"
+					}
+				]
+			},
+			{
+				"nome": "Rio Grande do Norte",
+				"sigla": "RN",
+				"vizinhos": [
+					{
+						"sigla": "CE"
+					},
+					{
+						"sigla": "PB"
+					}
+				]
+			}
+		]
+	},
+	{
+		"nome": "Centro-Oeste",
+		"territorios": [
+			{
+				"nome": "Goiás",
+				"sigla": "GO",
+				"vizinhos": [
+					{
+						"sigla": "PA"
+					},
+					{
+						"sigla": "MT"
+					},
+					{
+						"sigla": "MG"
+					},
+					{
+						"sigla": "BA"
+					},
+					{
+						"sigla": "PI"
+					},
+					{
+						"sigla": "MA"
+					}
+				]
+			},
+			{
+				"nome": "Mato Grosso",
+				"sigla": "MT",
+				"vizinhos": [
+					{
+						"sigla": "RO"
+					},
+					{
+						"sigla": "AM"
+					},
+					{
+						"sigla": "PA"
+					},
+					{
+						"sigla": "GO"
+					},
+					{
+						"sigla": "MG"
+					},
+					{
+						"sigla": "SP"
+					},
+					{
+						"sigla": "PR"
+					}
+				]
+			}
+		]
+	},
+	{
+		"nome": "Sudeste",
+		"territorios": [
+			{
+				"nome": "Espírito Santo",
+				"sigla": "ES",
+				"vizinhos": [
+					{
+						"sigla": "BA"
+					},
+					{
+						"sigla": "MG"
+					},
+					{
+						"sigla": "RJ"
+					}
+				]
+			},
+			{
+				"nome": "Minas Gerais",
+				"sigla": "MG",
+				"vizinhos": [
+					{
+						"sigla": "BA"
+					},
+					{
+						"sigla": "GO"
+					},
+					{
+						"sigla": "MT"
+					},
+					{
+						"sigla": "SP"
+					},
+					{
+						"sigla": "RJ"
+					},
+					{
+						"sigla": "ES"
+					}
+				]
+			},
+			{
+				"nome": "Rio de Janeiro",
+				"sigla": "RJ",
+				"vizinhos": [
+					{
+						"sigla": "ES"
+					},
+					{
+						"sigla": "MG"
+					},
+					{
+						"sigla": "SP"
+					}
+				]
+			},
+			{
+				"nome": "São Paulo",
+				"sigla": "SP",
+				"vizinhos": [
+					{
+						"sigla": "MG"
+					},
+					{
+						"sigla": "MT"
+					},
+					{
+						"sigla": "PR"
+					},
+					{
+						"sigla": "RJ"
+					}
+				]
+			}
+		]
+	},
+	{
+		"nome": "Sul",
+		"territorios": [
+			{
+				"nome": "Paraná",
+				"sigla": "PR",
+				"vizinhos": [
+					{
+						"sigla": "SP"
+					},
+					{
+						"sigla": "MT"
+					},
+					{
+						"sigla": "SC"
+					}
+				]
+			},
+			{
+				"nome": "Rio Grande do Sul",
+				"sigla": "RS",
+				"vizinhos": [
+					{
+						"sigla": "SC"
+					}
+				]
+			},
+			{
+				"nome": "Santa Catarina",
+				"sigla": "SC",
+				"vizinhos": [
+					{
+						"sigla": "PR"
+					},
+					{
+						"sigla": "RS"
+					}
+				]
+			}
+		]
+	}
+]
